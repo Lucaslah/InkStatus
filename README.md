@@ -10,9 +10,9 @@ A Basic Nodejs Server Status Information app.
 
 
 ### Insatlling
- You can Install this with NPM: `npm i inkstatus`
- Yarn: `yarn add inkstatus`
- HomeBrew: Comming soon
+- You can Install this with NPM: `npm i inkstatus`
+- Yarn: `yarn add inkstatus`
+- HomeBrew: Comming soon
 
 ### About
 This Project shows your computer CPU Usage, Ram Usage, Uptime and lots more.
