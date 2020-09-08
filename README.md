@@ -27,7 +27,7 @@ This Page is Comming soon.
 2. Install Inkstatus: `npm i inkstatus` or `yarn add inkstatus`
 3. Make a new folder somewhere on your computer and name it inkstatus (home folder reccommened) 
 4. Open a new terminal and change to that folder `cd inkstatus`
-5. Download This file: {URL HERE} to your computer and move to your inkstatus folder.
+5. Download This file: [Download](https://github.com/Lucaslah/InkStatus/releases/download/file-v-1.0.0/syinfo.php) to your computer and move to your inkstatus folder.
 6. In your terminal run this command: `nohup php -S localhost:5001 > phpd.log 2>&1`
 7. Now open a new Terminal and run `inkstatus` 
 8. Open http://localhost:5000 and you should see your computer status.
