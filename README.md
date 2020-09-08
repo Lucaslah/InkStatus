@@ -5,7 +5,7 @@ A Basic Nodejs Server Status Information app.
 - [Installing](#Insatlling)
 - [About](#about)
 - [Building from code](#Building-from-code)
-- [Help](#help)
+- [Help](#help/setup)
 - [Extra Info](#extra-info)
 
 
@@ -22,7 +22,7 @@ Please Note This app is build for macOS and Liunx and Will be comming to Windows
 ### Building from code
 This Page is Comming soon.
 
-### Help
+### Help/Setup
 1. You will need php and yarn or npm installed on your computer (macOS or liunx).
 2. Install Inkstatus: `npm i inkstatus` or `yarn add inkstatus`
 3. Make a new folder somewhere on your computer and name it inkstatus (home folder reccommened) 
