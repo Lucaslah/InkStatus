@@ -24,7 +24,7 @@ This Page is Comming soon.
 
 ### Help/Setup
 1. You will need php and yarn or npm installed on your computer (macOS or liunx).
-2. Install Inkstatus: `npm i inkstatus` or `yarn add inkstatus`
+2. Install Inkstatus: `npm install inkstatus -g` or `yarn add inkstatus`
 3. Make a new folder somewhere on your computer and name it inkstatus (home folder reccommened) 
 4. Open a new terminal and change to that folder `cd inkstatus`
 5. Download This file: [Download](https://github.com/Lucaslah/InkStatus/releases/download/file-v-1.0.0/syinfo.php) to your computer and move to your inkstatus folder.
