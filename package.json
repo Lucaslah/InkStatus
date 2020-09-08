@@ -1,0 +1,30 @@
+{
+    "name": "inkstatus",
+    "version": "1.0.0",
+    "description": "A Server Info App",
+    "main": "main.js",
+    "scripts": {
+        "test": "node test.js",
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Lucaslah/InkStatus.git"
+    },
+    "keywords": [
+        "ServerStatus"
+    ],
+    "author": "Lucas Petrino",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Lucaslah/InkStatus/issues"
+    },
+    "homepage": "https://github.com/Lucaslah/InkStatus#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "simple-stats-server": "0.0.5",
+        "string": "^3.3.3",
+        "system-health-monitor": "^1.2.1",
+        "systeminformation": "^4.27.3"
+    }
+}
