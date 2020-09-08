@@ -1,4 +1,4 @@
-# InkStatus ![npm](https://img.shields.io/npm/v/inkstatus) ![Maintenance](https://img.shields.io/maintenance/yes/2020) ![npm bundle size](https://img.shields.io/bundlephobia/min/inkstatus) ![GitHub issues](https://img.shields.io/github/issues/lucaslah/inkstatus)
+# InkStatus ![npm](https://img.shields.io/npm/v/inkstatus) ![Maintenance](https://img.shields.io/maintenance/yes/2020) ![npm bundle size](https://img.shields.io/bundlephobia/min/inkstatus) 
 A Basic Nodejs Server Status Information app.
 
 ## Table of Contents
