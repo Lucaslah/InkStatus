@@ -10,7 +10,7 @@ A Basic Nodejs Server Status Information app.
 
 
 ### Insatlling
-- You can Install this with NPM: `npm i inkstatus`
+- You can Install this with NPM: `npm install inkstatus -g` (If you get an error try `sudo npm install inkstatus -g`)
 - Yarn: `yarn add inkstatus`
 - HomeBrew: Comming soon
 
