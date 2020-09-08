@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const express = require('express');
 const server = express();
 const port = 5000;
