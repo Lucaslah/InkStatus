@@ -2,11 +2,11 @@
 A Basic Nodejs Server Status Information app.
 
 ## Table of Contents
-[Installing](#Insatlling)
-[About](#about)
-[Building from code](#Building from code)
-[Help](#help)
-[Extra Info](#extra info)
+- [Installing](#Insatlling)
+- [About](#about)
+- [Building from code](#Building from code)
+- [Help](#help)
+- [Extra Info](#extra info)
 
 
 ### Insatlling
