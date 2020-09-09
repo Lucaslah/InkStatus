@@ -36,4 +36,4 @@ This Page is Comming soon.
 11. Extra Note: While you what inkstatus running you *MUST* keep both terminal windows open.
 
 ### Extra Info
-Windows is comming soon!
+THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
