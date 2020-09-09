@@ -6,7 +6,8 @@
     "bin": "main.js",
     "scripts": {
         "test": "node test.js",
-        "start": "node main.js"
+        "php": "node php.js",
+        "phpstop": "node phpstop.js"
     },
     "repository": {
         "type": "git",

@@ -32,7 +32,7 @@ This Page is Comming soon.
 7. Now open a new Terminal and run `inkstatus --start` 
 8. Open http://localhost:5000 and you should see your computer status.
 9. To Quit inkstatus, In the terminal you ran `inkstatus --start` in press CRT + C on your keyboard.
-10. In the terminal you ran `nohup php -S localhost:5001 > phpd.log 2>&1` run `PHP_SERVER_PID=$! & kill -3 $PHP_SERVER_PID`. Thats it inkstatus has stoped running.
+10. In the terminal you ran `nohup php -S localhost:5001 > phpd.log 2>&1` press CRT + C. Thats it inkstatus has stoped running.
 11. Extra Note: While you what inkstatus running you *MUST* keep both terminal windows open.
 
 ### Extra Info
