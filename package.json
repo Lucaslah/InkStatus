@@ -1,7 +1,7 @@
 {
     "name": "inkstatus",
-    "version": "1.0.6",
-    "description": "A Server Info App",
+    "version": "1.0.7",
+    "description": "A Node Js Server Info App",
     "main": "main.js",
     "bin": "main.js",
     "scripts": {
