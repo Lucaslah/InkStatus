@@ -1,6 +1,6 @@
 const { exec } = require("child_process");
 
-exec("nohup php -S localhost:5001 > phpd.log 2>&1", (error, stdout, stderr) => {
+exec("nohup php -S localhost:5001 syinfo.php&", (error, stdout, stderr) => {
     if (error) {
         console.log(`error: ${error.message}`);
         return;
