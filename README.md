@@ -10,9 +10,9 @@ A Basic Nodejs Server Status Information app.
 
 
 ### Insatlling
-|NPM||Yarn|
-|npm install inkstatus -g|
-
+NPM:|Yarn:|
+|---|---|
+|`npm install inkstatus -g`|`yarn add inkstatus`|
 ### About
 This Project shows your computer CPU Usage, Ram Usage, Uptime and lots more.
 Please Note This app is build for macOS and Liunx and Will be comming to Windows Soon, But you can fork this and build it for Windiws if you wish.
