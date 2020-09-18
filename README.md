@@ -10,7 +10,7 @@ A Basic Nodejs Server Status Information app.
 
 
 ### Insatlling
-|NPM|
+|NPM|Yarn|
 |npm install inkstatus -g|
 
 ### About
