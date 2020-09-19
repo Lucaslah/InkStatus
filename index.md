@@ -41,4 +41,4 @@ This Page is Comming soon.
 THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
 
 ### Other Pages:
-[Other](other.html)
+- [Other](other.html)
