@@ -1,3 +1,7 @@
+---
+{}
+
+---
 # InkStatus [![npm version](https://badge.fury.io/js/inkstatus.svg)](https://badge.fury.io/js/inkstatus) ![Maintenance](https://img.shields.io/maintenance/yes/2020) [![GitHub license](https://img.shields.io/github/license/Lucaslah/InkStatus)](https://github.com/Lucaslah/InkStatus/blob/master/LICENSE)
 A Basic Nodejs Server Status Information app.
 
@@ -35,3 +39,6 @@ This Page is Comming soon.
 
 ### Extra Info
 THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
+
+### Other Pages:
+[other.html](Other)
