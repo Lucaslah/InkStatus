@@ -10,9 +10,9 @@ on:
     inputs:
       name:
         # Friendly description to be shown in the UI instead of 'name'
-        description: 'Person to greet'
+        description: 'Enter V Number'
         # Default value if no value is explicitly provided
-        default: 'World'
+        default: '1'
         # Input has to be provided for the workflow to run
         required: true
 
@@ -26,7 +26,6 @@ jobs:
         with:
           node-version: 10
       - run: npm install
-      - run: npm test
       - uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.NPM_TOKEN }}
