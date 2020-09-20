@@ -59,7 +59,7 @@ switch (myArgs[0]) {
             //  console.log(`stdout: ${stdout}`);
             // });
 
-            console.log("The Auto PHP Web server is not working right now. Please see https://github.com/Lucaslah/InkStatus/extrahelp.md to start the php web server before restarting the InkStatus App.")
+            console.log("Please check that you have started the php web server with inkstatus php.")
 
         } else {
 
