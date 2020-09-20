@@ -5,8 +5,7 @@
     "main": "main.js",
     "bin": "main.js",
     "scripts": {
-        "test": "node test.js",
-        "php": "node php.js"
+        "test": "./node_modules/.bin/mocha"
     },
     "repository": {
         "type": "git",
