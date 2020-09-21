@@ -6,6 +6,7 @@ A Basic Nodejs Server Status Information app.
 - [About](#about)
 - [Building from code](#Building-from-code)
 - [Help](#help/setup)
+- [Requirements](#Requirements)
 - [Extra Info](#extra-info)
 
 
@@ -32,6 +33,12 @@ This Page is Comming soon.
 6. To Quit inkstatus, In the terminal you ran `inkstatus --start` in press CRT + C on your keyboard.
 7.  In the terminal you ran `inkstatus php` press CRT + C. Thats it inkstatus has stoped running.
 8.  Extra Note: While you what inkstatus running you *MUST* keep both terminal windows open.
+
+
+### Requirements
+- Python 2 + (Show Ram Usage)
+- PHP (Web Server) 
+- NPM or Yarn (Install)
 
 ### Extra Info
 THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
