@@ -2,27 +2,34 @@
 A Basic Nodejs Server Status Information app.
 
 ## Table of Contents
+- [Requirements](#requirements)
 - [Installing](#Insatlling)
 - [About](#about)
 - [Building from code](#Building-from-code)
 - [Help](#help/setup)
-- [Requirements](#Requirements)
 - [Extra Info](#extra-info)
 
+### Requirements
+- npm or yarn
+- Pyhton 2 + (To show RAM usage)
+- PHP 
 
 ### Insatlling
-#### You can install inkstatus with npm or yarn:
-NPM:|Yarn:|
-|---|---|
-|`npm install inkstatus -g`|`yarn add inkstatus`|
-###### If install fails with npm try `sudo npm install inkstatus -g`
+#### You can install InkStatus with npm or yarn.
+- Yarn: `yarn add inkstatus` If you get a error try `sudo npm install -g inkstatus`
+- npm: `npm i inkstatus -g`
+- HomeBrew: `coming soon`
 ### About
 This Project shows your computer CPU Usage, Ram Usage, Uptime and lots more.
 Please Note This app is build for macOS and Liunx and Will be comming to Windows Soon, But you can fork this and build it for Windiws if you wish.
 
 
 ### Building from code
-This Page is Comming soon.
+1. Clone this repo: `gh clone lucaslah/inkstatus`
+2. Change to the repo you just cloned: `cd inkstatus`
+3. Install required things: `npm install` or `yarn inatall`
+4. Start the InkStatus server with `node . --start`
+5. Start the PHP web Server with `node . php`
 
 ### Help/Setup
 1. You will need php and yarn or npm installed on your computer (macOS or liunx).
@@ -33,12 +40,6 @@ This Page is Comming soon.
 6. To Quit inkstatus, In the terminal you ran `inkstatus --start` in press CRT + C on your keyboard.
 7.  In the terminal you ran `inkstatus php` press CRT + C. Thats it inkstatus has stoped running.
 8.  Extra Note: While you what inkstatus running you *MUST* keep both terminal windows open.
-
-
-### Requirements
-- Python 2 + (Show Ram Usage)
-- PHP (Web Server) 
-- NPM or Yarn (Install)
 
 ### Extra Info
 THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
