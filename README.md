@@ -2,11 +2,11 @@
 A Basic Nodejs Server Status Information app.
 
 ## Table of Contents
+- [Requirements](#requirements)
 - [Installing](#Insatlling)
 - [About](#about)
 - [Building from code](#Building-from-code)
 - [Help](#help/setup)
-- [Requirements](#Requirements)
 - [Extra Info](#extra-info)
 
 ### Requirements
@@ -16,7 +16,7 @@ A Basic Nodejs Server Status Information app.
 
 ### Insatlling
 #### You can install InkStatus with npm or yarn.
-- Yarn: `yarn add inkstatus`
+- Yarn: `yarn add inkstatus` If you get a error try `sudo npm install -g inkstatus`
 - npm: `npm i inkstatus -g`
 - HomeBrew: `coming soon`
 ### About
