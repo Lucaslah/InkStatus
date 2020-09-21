@@ -26,5 +26,4 @@ jobs:
         with:
           node-version: 10
       - run: npm install
-      - run: node . --start
       - run: npm test
