@@ -16,8 +16,8 @@ A Basic Nodejs Server Status Information app.
 
 ### Insatlling
 #### You can install InkStatus with npm or yarn.
-- Yarn: `yarn add inkstatus` `
-- npm: `npm i inkstatus -g` If you get a error try `sudo npm install -g inkstatus
+- Yarn: `yarn add inkstatus` 
+- npm: `npm i inkstatus -g` If you get a error try `sudo npm install -g inkstatus`
 - HomeBrew: `coming soon`
 ### About
 This Project shows your computer CPU Usage, Ram Usage, Uptime and lots more.
