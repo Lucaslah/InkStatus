@@ -9,7 +9,7 @@ switch (myArgs[0]) {
     case 'php':
         const { exec } = require("child_process");
 
-        exec("nohup php -S localhost:5001 syinfo.php&", (error, stdout, stderr) => {
+        exec("php -S localhost:5001 syinfo.php", (error, stdout, stderr) => {
             if (error) {
                 console.log(`error: ${error.message}`);
                 return;
