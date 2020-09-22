@@ -7,6 +7,7 @@ A Basic Nodejs Server Status Information app.
 - [About](#about)
 - [Building from code](#Building-from-code)
 - [Help](#help/setup)
+- [Coming Soon](#coming-soon)
 - [Extra Info](#extra-info)
 
 ### Requirements
@@ -20,7 +21,7 @@ A Basic Nodejs Server Status Information app.
 - npm: `npm i inkstatus -g` If you get a error try `sudo npm install -g inkstatus`
 - HomeBrew: `coming soon`
 ### About
-This Project shows your computer CPU Usage, Ram Usage, Uptime and lots more.
+This Project shows your computer CPU Info, Ram Usage, Uptime and lots more.
 Please Note This app is build for macOS and Liunx and Will be comming to Windows Soon, But you can fork this and build it for Windiws if you wish.
 
 
@@ -40,6 +41,9 @@ Please Note This app is build for macOS and Liunx and Will be comming to Windows
 6. To Quit inkstatus, In the terminal you ran `inkstatus --start` in press CRT + C on your keyboard.
 7.  In the terminal you ran `inkstatus php` press CRT + C. Thats it inkstatus has stoped running.
 8.  Extra Note: While you what inkstatus running you *MUST* keep both terminal windows open.
+
+### Coming Soon
+- CPU Usage
 
 ### Extra Info
 THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
