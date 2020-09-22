@@ -1,5 +1,3 @@
-# This is a basic workflow that is manually triggered
-
 name: Pull Request Test Ubuntu
 
 on: [push, pull_request]
