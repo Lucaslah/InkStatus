@@ -9,7 +9,7 @@ A Basic Nodejs Server Status Information app.
 - [Help](#help/setup)
 - [Coming Soon](#coming-soon)
 - [Extra Info](#extra-info)
-- [Changing the app Ports](#changing-the-app-ports-(High-Level-Users-only))
+- [Changing the app Ports](#changing-the-app-ports-high-level-users-only)
 
 ### Requirements
 - npm or yarn
