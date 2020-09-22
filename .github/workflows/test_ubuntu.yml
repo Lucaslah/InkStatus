@@ -10,9 +10,9 @@ on:
     inputs:
       name:
         # Friendly description to be shown in the UI instead of 'name'
-        description: 'Enter V Number'
+        description: 'Enter Yes/No to continue.'
         # Default value if no value is explicitly provided
-        default: '1'
+        default: 'Yes'
         # Input has to be provided for the workflow to run
         required: true
 
