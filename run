@@ -1,6 +1,7 @@
+#!/usr/bin/env node
 const { exec } = require("child_process");
 
-exec("php -S localhost:5001 syinfo.php", (error, stdout, stderr) => {
+exec("node . --start & node php", (error, stdout, stderr) => {
     if (error) {
         console.log(`error: ${error.message}`);
         return;
@@ -11,3 +12,6 @@ exec("php -S localhost:5001 syinfo.php", (error, stdout, stderr) => {
     }
     console.log(`stdout: ${stdout}`);
 });
+
+console.log("InkStatus Web Server & PHP Web Server have started!")
+console.log("View the Web Server on http://localhost:5000")
