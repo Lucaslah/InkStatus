@@ -1,4 +1,4 @@
-# InkStatus [![npm version](https://badge.fury.io/js/inkstatus.svg)](https://badge.fury.io/js/inkstatus) ![Maintenance](https://img.shields.io/maintenance/yes/2020) [![GitHub license](https://img.shields.io/github/license/Lucaslah/InkStatus)](https://github.com/Lucaslah/InkStatus/blob/master/LICENSE) ![CircleCI](https://img.shields.io/circleci/build/gh/Lucaslah/InkStatus/master?style=plastic&token=89c94f330b233ec43aa4793bf0d8a63bc2489bb9)
+# InkStatus [![npm version](https://badge.fury.io/js/inkstatus.svg)](https://badge.fury.io/js/inkstatus) ![Maintenance](https://img.shields.io/maintenance/yes/2020) [![GitHub license](https://img.shields.io/github/license/Lucaslah/InkStatus)](https://github.com/Lucaslah/InkStatus/blob/master/LICENSE) ![CircleCI](https://img.shields.io/circleci/build/gh/Lucaslah/InkStatus/master?token=89c94f330b233ec43aa4793bf0d8a63bc2489bb9)
 A Basic Nodejs Server Status Information app.
 
 ## Table of Contents
