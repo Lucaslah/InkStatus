@@ -1,0 +1,3 @@
+#!/bin/bash
+# main.js with out the .js
+echo("using bash not nodejs, nodejs is reccommended.")
