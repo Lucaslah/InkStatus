@@ -31,7 +31,7 @@ Please Note This app is build for macOS and Liunx and Will be comming to Windows
 2. Change to the repo you just cloned: `cd inkstatus`
 3. Install required things: `npm install` or `yarn inatall`
 4. Start the InkStatus server with `node . --start`
-5. Start the PHP web Server with `node . php`
+5. Start the PHP web Server with `node php`
 
 ### Help/Setup
 1. You will need php and yarn or npm installed on your computer (macOS or liunx).
