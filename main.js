@@ -9,7 +9,7 @@ switch (myArgs[0]) {
     case 'php':
         const { exec } = require("child_process");
 
-        exec("php -S localhost:5001 syinfo.php", (error, stdout, stderr) => {
+        exec("php -S localhost:1667 syinfo.php", (error, stdout, stderr) => {
             if (error) {
                 console.log(`error: ${error.message}`);
                 return;
@@ -28,7 +28,7 @@ switch (myArgs[0]) {
 
             const express = require('express');
             const server = express();
-            const port = 5000;
+            const port = 2334;
 
             server.get("/", (req, res) => {
                 res.sendFile(__dirname + '/index.html');
