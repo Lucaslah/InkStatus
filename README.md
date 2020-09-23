@@ -9,7 +9,7 @@ A Basic Nodejs Server Status Information app.
 - [Help](#help/setup)
 - [Coming Soon](#coming-soon)
 - [Extra Info](#extra-info)
-- [Other Branches](#othe-branches)
+- [Other Branches](#other-branches)
 - [Changing the app Ports](#changing-the-app-ports-high-level-users-only)
 
 ### Requirements
