@@ -1,4 +1,4 @@
-# InkStatus High Ports: if you need ports 5000 and/or 5001 (the inkstatus default ports) and you don't what to chnage them you can use the branch to run InkStatus on ports; php: port: 1667 and web: port: 2334. DO NOT USE 'NPM INSTALL INKSTATUS -G' TO INSTALL THE HIGH PORTS BRANCH FOLLOW [HIGHPORT.md](highport.md)
+## InkStatus High Ports: if you need ports 5000 and/or 5001 (the inkstatus default ports) and you don't what to chnage them you can use the branch to run InkStatus on ports; php: port: 1667 and web: port: 2334. DO NOT USE 'NPM INSTALL INKSTATUS -G' TO INSTALL THE HIGH PORTS BRANCH FOLLOW [HIGHPORT.md](highport.md)
 
 ## FOR USE OF HIGH PORTS THE REST OF THIS README IS VOIDED!
 
