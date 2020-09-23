@@ -9,6 +9,7 @@ A Basic Nodejs Server Status Information app.
 - [Help](#help/setup)
 - [Coming Soon](#coming-soon)
 - [Extra Info](#extra-info)
+- [Other Branches](#othe-branches)
 - [Changing the app Ports](#changing-the-app-ports-high-level-users-only)
 
 ### Requirements
@@ -46,6 +47,12 @@ Please Note This app is build for macOS and Liunx and Will be comming to Windows
 
 ### Extra Info
 THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
+
+## Other Branchs
+- master : this branch also the main branch of this project.
+- gh-pages : the branch where github pags for this project are hosted on.
+- high-ports-x.x.x : the high ports branch for users that need higher ports, replace x.x.x with the current realese.
+
 
 #### Changing the app ports (High Level Users only)
 ###### To View this in in your browser [Press Here](http://spycampllc.ml/InkStatus/changing_the_inkstatus_ports.html?rnd=6363)
