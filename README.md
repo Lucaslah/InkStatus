@@ -12,12 +12,12 @@ A Basic Nodejs Server Status Information app.
 - [Changing the app Ports](#changing-the-app-ports-high-level-users-only)
 
 ### Requirements
-- npm or yarn
+- npm or Yarn
 - Pyhton 2 + (To show RAM usage)
 - PHP 
 
 ### Insatlling
-#### You can install InkStatus with npm or yarn.
+#### You can install InkStatus with npm or Yarn.
 - Yarn: `yarn add inkstatus` 
 - npm: `npm i inkstatus -g` If you get a error try `sudo npm install -g inkstatus`
 - HomeBrew: `coming soon`
@@ -27,7 +27,7 @@ Please Note This app is build for macOS and Liunx and Will be comming to Windows
 
 
 ### Building from code
-1. Clone this repo: `gh clone lucaslah/inkstatus`
+1. Clone this repo: `gh clone lucaslah/inkstatus` or using git clone: `git clone https://github.com/lucaslah/inkstatus.git`
 2. Change to the repo you just cloned: `cd inkstatus`
 3. Install required things: `npm install` or `yarn inatall`
 4. Start the InkStatus server with `node . --start`
@@ -39,7 +39,7 @@ Please Note This app is build for macOS and Liunx and Will be comming to Windows
 3. In your terminal run this command: `inkstatus --start & inkstatus php` 
 4. Open http://localhost:5000 and you should see your computer status.
 5. To Quit inkstatus, In the terminal you ran `inkstatus --start & inkstatus php` in press CRT + C on your keyboard, thats it InkStatus has stoped.
-6.  Extra Note: While you what inkstatus running you *MUST* keep your terminal window open.
+6.  Extra Note: While you have `inkstatus` running you *MUST* keep your terminal window open.
 
 ### Coming Soon
 - CPU Usage
