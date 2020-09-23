@@ -48,7 +48,7 @@ Please Note This app is build for macOS and Liunx and Will be comming to Windows
 ### Extra Info
 THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
 
-## Other Branchs
+## Other Branches
 - master : this branch also the main branch of this project.
 - gh-pages : the branch where github pags for this project are hosted on.
 - high-ports-x.x.x : the high ports branch for users that need higher ports, replace x.x.x with the current realese.
