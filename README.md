@@ -1,3 +1,7 @@
+# InkStatus High Ports: if you need ports 5000 and/or 5001 (the inkstatus default ports) and you don't what to chnage them you can use the branch to run InkStatus on ports; php: port: 1667 and web: port: 2334. DO NOT USE 'NPM INSTALL INKSTATUS -G' TO INSTALL THE HIGH PORTS BRANCH FOLLOW [HIGHPORT.md](highport.md)
+
+## FOR USE OF HIGH PORTS THE REST OF THIS README IS VOIDED!
+
 # InkStatus ![npm](https://img.shields.io/npm/v/inkstatus) ![Maintenance](https://img.shields.io/maintenance/yes/2020) [![GitHub license](https://img.shields.io/github/license/Lucaslah/InkStatus)](https://github.com/Lucaslah/InkStatus/blob/master/LICENSE) ![CircleCI](https://img.shields.io/circleci/build/gh/Lucaslah/InkStatus/master?token=89c94f330b233ec43aa4793bf0d8a63bc2489bb9) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lucaslah/inkstatus/Manual%20Test%20macOS?label=macOS%20Build) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lucaslah/inkstatus/Manual%20Test%20Ubuntu?label=Ubuntu%20Build)
 A Basic Nodejs Server Status Information app.
 
