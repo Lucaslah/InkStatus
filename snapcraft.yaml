@@ -1,0 +1,4 @@
+name: inkstatus
+version: git
+summary: A Node JS Server Status app.
+description: A Node JS Server Status app
