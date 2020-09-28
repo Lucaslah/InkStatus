@@ -1,4 +1,4 @@
 # InkStatus
 A Basic Nodejs Server Status Information app.
 
-gh-pages branch for github pages
+inkstatus-web branch for the InkStatus web.
