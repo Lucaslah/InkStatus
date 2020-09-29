@@ -78,8 +78,6 @@ font-family: Arial, Helvetica, sans-serif;
 <li><a href="#help/setup">Help</a></li>
 <li><a href="#coming-soon">Coming Soon</a></li>
 <li><a href="#extra-info">Extra Info</a></li>
-<li><a href="#other-branches">Other Branches</a></li>
-<li><a href="#changing-the-app-ports-high-level-users-only">Changing the app Ports</a></li>
 </ul>
 <h3 id="requirements">Requirements</h3>
 <ul>
