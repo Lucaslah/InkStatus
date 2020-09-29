@@ -68,7 +68,7 @@ li {
 font-family: Arial, Helvetica, sans-serif;
 }
 </style></head><body><h1 id="inkstatus-npm-https-img-shields-io-npm-v-inkstatus-maintenance-https-img-shields-io-maintenance-yes-2020-github-license-https-img-shields-io-github-license-lucaslah-inkstatus-https-github-com-lucaslah-inkstatus-blob-master-license-circleci-https-img-shields-io-circleci-build-gh-lucaslah-inkstatus-master-token-89c94f330b233ec43aa4793bf0d8a63bc2489bb9-github-workflow-status-https-img-shields-io-github-workflow-status-lucaslah-inkstatus-manual-20test-20macos-label-macos-20build-github-workflow-status-https-img-shields-io-github-workflow-status-lucaslah-inkstatus-manual-20test-20ubuntu-label-ubuntu-20build-">InkStatus <img src="https://img.shields.io/npm/v/inkstatus" alt="npm"> <img src="https://img.shields.io/maintenance/yes/2020" alt="Maintenance"> <a href="https://github.com/Lucaslah/InkStatus/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Lucaslah/InkStatus" alt="GitHub license"></a> <img src="https://img.shields.io/circleci/build/gh/Lucaslah/InkStatus/master?token=89c94f330b233ec43aa4793bf0d8a63bc2489bb9" alt="CircleCI"> <img src="https://img.shields.io/github/workflow/status/lucaslah/inkstatus/Manual%20Test%20macOS?label=macOS%20Build" alt="GitHub Workflow Status"> <img src="https://img.shields.io/github/workflow/status/lucaslah/inkstatus/Manual%20Test%20Ubuntu?label=Ubuntu%20Build" alt="GitHub Workflow Status"></h1>
-<p> A Basic Nodejs Server Status Information app.</p>
+<p>A Basic Nodejs Server Status Information app.</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#requirements">Requirements</a></li>
