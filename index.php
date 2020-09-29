@@ -36,7 +36,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <header class="w3-container w3-blue w3-center" style="padding:128px 16px">
   <h1 class="w3-margin w3-jumbo">InkStatus</h1>
   <p class="w3-xlarge">A Basic Node JS Server Status app.</p>
-  <a herf="https://github.com/lucaslah/inkstatus" class="w3-button w3-black w3-padding-large w3-large w3-margin-top">View it on GitHub</a>
+  <a href="https://github.com/lucaslah/inkstatus" class="w3-button w3-black w3-padding-large w3-large w3-margin-top">View it on GitHub</a>
 </header>
 
 
