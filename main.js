@@ -61,6 +61,13 @@ switch (myArgs[0]) {
 
             console.log("Please check that you have started the php web server with inkstatus php.")
 
+
+            const updateNotifier = require('update-notifier');
+            const pkg = require('./package.json');
+
+            updateNotifier({ pkg }).notify();
+
+
         } else {
 
             // code for usage.
@@ -78,13 +85,24 @@ switch (myArgs[0]) {
                             name: 'start',
                             typeLabel: ' ',
                             description: 'Starts the InkStatus Server'
+
                         },
+                        {
+                            name: 'no-update-notifier',
+                            typeLabel: ' ',
+                            description: 'Add to any command to opt out of update notifier'
+                        }
 
                     ]
                 }
             ]
             const usage = commandLineUsage(sections)
             console.log(usage)
+
+            const updateNotifier = require('update-notifier');
+            const pkg = require('./package.json');
+
+            updateNotifier({ pkg }).notify();
 
             // end usage
 
