@@ -4,6 +4,7 @@ A Basic Nodejs Server Status Information app.
 ## Table of Contents
 - [Requirements](#requirements)
 - [Installing](#Insatlling)
+- [Errors](#Errors)
 - [About](#about)
 - [Building from code](#Building-from-code)
 - [Help](#help/setup)
@@ -21,7 +22,10 @@ A Basic Nodejs Server Status Information app.
 #### You can install InkStatus with npm or Yarn.
 - Yarn: `yarn add inkstatus` 
 - npm: `npm i inkstatus -g` If you get a error try `sudo npm install -g inkstatus`
-- HomeBrew: `coming soon`
+- HomeBrew: `brew tap lucaslah/inkstatus` then run `brew install inkstatus`
+
+#### Errors
+- HomeBrew: Please put your error into a new issue.
 ### About
 This Project shows your computer CPU Info, Ram Usage, Uptime and lots more.
 Please Note This app is build for macOS and Liunx and Will be comming to Windows Soon, But you can fork this and build it for Windiws if you wish.
