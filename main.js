@@ -61,6 +61,13 @@ switch (myArgs[0]) {
 
             console.log("Please check that you have started the php web server with inkstatus php.")
 
+
+            const updateNotifier = require('update-notifier');
+            const pkg = require('./package.json');
+
+            updateNotifier({ pkg }).notify();
+
+
         } else {
 
             // code for usage.
