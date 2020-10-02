@@ -86,6 +86,11 @@ switch (myArgs[0]) {
             const usage = commandLineUsage(sections)
             console.log(usage)
 
+            const updateNotifier = require('update-notifier');
+            const pkg = require('./package.json');
+
+            updateNotifier({ pkg }).notify();
+
             // end usage
 
 
