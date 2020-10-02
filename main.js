@@ -78,7 +78,13 @@ switch (myArgs[0]) {
                             name: 'start',
                             typeLabel: ' ',
                             description: 'Starts the InkStatus Server'
+
                         },
+                        {
+                            name: 'no-update-notifier',
+                            typeLabel: ' ',
+                            description: 'Add to any command to opt out of update notifier'
+                        }
 
                     ]
                 }
