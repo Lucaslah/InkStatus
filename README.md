@@ -59,4 +59,4 @@ THIS APP REQUIRES PORT'S 5000 AND PORT 5001.
 
 
 #### Changing the app ports (High Level Users only)
-This page has moved. [CHAGING-THE-APPS-PORTS.md](.md)
+This page has moved. [CHANGING-THE-APPS-PORTS.md](CHANGING-THE-APPS-PORTS.md)
