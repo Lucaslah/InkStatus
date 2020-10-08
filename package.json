@@ -1,6 +1,6 @@
 {
     "name": "inkstatus",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "A Node Js Server Info App",
     "main": "main.js",
     "bin": "main.js",
@@ -15,7 +15,7 @@
         "ServerStatus"
     ],
     "author": "Lucas Petrino",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/Lucaslah/InkStatus/issues"
     },
