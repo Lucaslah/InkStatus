@@ -98,6 +98,7 @@ switch (myArgs[0]) {
             ]
             const usage = commandLineUsage(sections)
             console.log(usage)
+            console.log("Version: v1.1.2")
 
             const updateNotifier = require('update-notifier');
             const pkg = require('./package.json');
